@@ -4,7 +4,7 @@
     width: 100%;
 }
 .principal{
-    background: #CCCCCC
+    background: rgb(35, 214, 238)
 }
 h1 {
     text-align: center
@@ -23,7 +23,7 @@ p {
 }
 
 .beneficios{
-    background: #ffffff;
+    background: #0c1fce;
 }
 h2{
     text-align: center;
