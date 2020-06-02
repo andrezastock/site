@@ -5,14 +5,20 @@
 }
 .principal{
     background: rgb(35, 214, 238);
-    
+
 
     padding:30px
 
 }
-h1 {
+
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo-centralizado{
     text-align: center
 }
+    
+
 
 p {
     text-align: center;
@@ -29,9 +35,6 @@ p {
 .beneficios{
     background: #0c1fce;
     padding: 20px;
-}
-h2{
-    text-align: center;
 }
 
 ul{
