@@ -26,5 +26,16 @@ nav a{
     font-weight: bold;
     font-size: 22px;
     text-decoration:none;
+}
+.produtos li{
+    display: inline-block;
 
+.aee{
+    width: 15%;
+}
+.adap{
+    width: 20%;
+}
+.psico{
+    width: 20%;
 }
