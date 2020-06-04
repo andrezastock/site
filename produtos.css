@@ -1,6 +1,19 @@
 header{
     background: rgba(3, 8, 73, 0.733);
 }
+.caixa{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+.escolar{
+width: 45%;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
 nav li {
     display:inline;
     margin: 0 0 0 15px;
