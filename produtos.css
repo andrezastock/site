@@ -37,6 +37,7 @@ nav a{
     text-align: center;
     width: 30%;
     vertical-align: top;
+    background: rgba(3, 8, 73, 0.733);
 }
 .produtos h2{
     font-size: 25px;
