@@ -38,6 +38,7 @@ nav a{
     width: 30%;
     vertical-align: top;
     background: rgba(3, 8, 73, 0.733);
+    margin: 0 1.5%;
 }
 .produtos h2{
     font-size: 25px;
