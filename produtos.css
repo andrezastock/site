@@ -30,18 +30,34 @@ nav a{
 .produtos{
     width: 940px;
     margin: 0 auto;
+    padding: 50px 0;
 }
 .produtos li{
     display: inline-block;
-
-}
-.refor{
+    text-align: center;
     width: 30%;
+    vertical-align: top;
+}
+.produtos h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+.produto-descricao{
+    font-size: 18px;
+}
+.produto-preco{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.refor{
+    width: 80%;
 }
 .aee{
-    width:50%;
+    width:70%;
 }
 
 .psico{
-    width: 60%;
+    width: 80%;
 }
