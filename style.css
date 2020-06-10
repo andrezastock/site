@@ -1,10 +1,10 @@
 
 
-#reforco-escolar {
-    width: 20%;
+.reforco-escolar {
+    width:100%;
 }
 .principal{
-    background: rgb(35, 214, 238);
+    background: #5d16f6;
 
 
     padding:30px
@@ -33,7 +33,7 @@ p {
 }
 
 .beneficios{
-    background: #0c1fce;
+    background: #fd0800;
     padding: 20px;
 }
 
@@ -43,9 +43,10 @@ ul{
     width: 20%;
     margin-right:15%;
 }
-.imagembeneficios{width: 50%;
+.imagembeneficios{
+    width: 40%;
 
 }
 em strong {
-    color: rgb(0, 4, 211);
+    color: rgb(242, 255, 65);
 }
