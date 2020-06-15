@@ -132,7 +132,7 @@ form{
  }
 
  .enviar:hover{
-     background:blue;
+     background:gold;
      transform:rotate(5deg) scale(1.2) ;
  }
 
@@ -143,5 +143,5 @@ form{
  }
 
  thead{
-      background:#666666;
+      background:gold;
  }
