@@ -135,3 +135,13 @@ form{
      background:blue;
      transform:rotate(5deg) scale(1.2) ;
  }
+
+ 
+ table{
+     margin: 20px 0 40px;
+
+ }
+
+ thead{
+      background:#666666;
+ }
