@@ -62,3 +62,9 @@ footer{
     font-size: 13px;
     margin:20px 0 0;
 }
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
