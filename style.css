@@ -175,5 +175,13 @@ td,th{
 }
 
 .imagembeneficios{
-    width: 60%;
+    width: 20%;
+    float: left;
+    
+}
+
+.modelo3{
+    width: 150px;
+    float: left;
+
 }
