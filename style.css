@@ -73,7 +73,7 @@ nav a:hover{
 footer{
     text-align: center;
     background:#5d16f6;
-    padding:40px 0;
+    padding:10px 0;
    
 }
 .copyright{
@@ -160,6 +160,7 @@ td,th{
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+    clear: left;
 }
 
 .principal p{
@@ -183,5 +184,6 @@ td,th{
 .modelo3{
     width: 150px;
     float: left;
+    margin:  0 20px 20px 0;
 
 }
