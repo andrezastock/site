@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background: #5d16f6;
+    background: rgb(186, 1, 228);
     padding: 20px 0;
 }
 .caixa{
@@ -46,7 +46,7 @@ nav a:hover{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid #5502ee ;
+    border: 2px solid rgb(186, 1, 228); 
     border-radius: 10px;
 }
 .produtos li:hover{
@@ -75,7 +75,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background:#5d16f6;
+    background:rgb(186, 1, 228);
     padding:20px 0;
    
 }
@@ -98,8 +98,7 @@ footer{
 }
 
 main{
-    width:940px;
-    margin:0 auto;
+    
 }
 form{
     margin:40px 0;
@@ -174,7 +173,9 @@ td,th{
 }
 .principal{
     padding: 3em 0;
-    background: rgba(222, 119, 245, 0);
+    background:#fefeff;
+    width:940px;
+    margin:0 auto;
 }
 
 .principal p{
@@ -191,6 +192,8 @@ td,th{
 
 .beneficios{
     padding: 3em 0;
+    background: rgb(220, 153, 235);;
+    
 }
 .imagem-beneficios{
     width: 30%;
@@ -219,6 +222,8 @@ td,th{
 
 .mapa{
     padding: 3em 0;
+    width:940px;
+    margin:0 auto;
 }
 
 .mapa p{
