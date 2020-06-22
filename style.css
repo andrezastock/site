@@ -34,9 +34,15 @@ nav a:hover{
     color:  #dbee33;
 }
 .produtos{
+    
+    padding: 50px 0;
+    background: linear-gradient(BlueViolet,Orchid)
+}
+.produtos-conteudo{
     width: 940px;
     margin: 0 auto;
-    padding: 50px 0;
+}
+
 }
 .produtos li{
     display: inline-block;
@@ -101,7 +107,7 @@ main{
     
 }
 form{
-    margin:40px 0;
+    margin:40px 20px;
 }
  form label, form legend{
      display:block;
