@@ -166,19 +166,19 @@ td,th{
 }
 
 .modelo3{
-    width: 150px;
+    width: 4.5em;
     float: left;
     margin:  0 20px 20px 0;
 
 }
-.principal{    padding: 3em 0;
+.principal{    
+    padding: 3em 0;
     background:BlueViolet;
-
 }
 
 .pincipal-conteudo{
-    width:940px;
-    margin:0 auto;
+    width: 940px;
+    margin: 0 auto;
 } 
 
 .principal p{
