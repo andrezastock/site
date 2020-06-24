@@ -35,8 +35,9 @@ nav a:hover{
 }
 
 .produtos-fundo{
-    background: linear-gradient(BlueViolet,Orchid)
+    background: linear-gradient(BlueViolet,Orchid);
 }
+    
 .produtos{
     width: 940px;
     margin: 0 auto;
@@ -57,7 +58,8 @@ nav a:hover{
 }
 .produtos li:hover{
     border-color: #dbee33;
-   
+    background: rgb(117, 23, 141);
+
 }
 .produtos li:active{
     border-color:#ee2493;
@@ -206,7 +208,6 @@ td,th{
 .imagem-beneficios{
     width: 25%;
     float: right;
-    background: Fuchsia;
    
     
 }
